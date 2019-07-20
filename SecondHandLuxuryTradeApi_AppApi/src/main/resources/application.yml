@@ -1,0 +1,13 @@
+
+server:
+  port: 9401
+spring:
+  application:
+    name: ApiConsumer
+  main:
+    allow-bean-definition-overriding: true
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

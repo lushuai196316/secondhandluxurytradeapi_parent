@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondHandLuxuryTradeApi_AppApi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondHandLuxuryTradeApi_Common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondHandLuxuryTradeApi_Eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondHandLuxuryTrade_AppApi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondHandLuxuryTrade_Server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecondhandluxuryTradeApi_Entity" charset="UTF-8" />
+  </component>
+</project>
